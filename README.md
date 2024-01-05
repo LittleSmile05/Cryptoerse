@@ -1,4 +1,4 @@
-## Available Scripts
+## Cryptoerse (Tutorial)
 
 In the project directory, you can run:
 
